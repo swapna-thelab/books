@@ -35,5 +35,31 @@
 34. Peter Pan
 35. We the people
 36. The NVIDIA way
-37. 
+37. Caroline Burt and Richard Partington, Arise, England: Six Kings and the Making of the English State.
+38. Tirthankar Roy and K. Ravi Raman, Kerala: 1956 to the Present.
+39. Agnes Callard, Open Socrates: The Case for a Philosophical Life.
+40. Amy Sall, The African Gaze: Photography, Cinema, and Power.
+41. Michael Krielaars, The Sound of Utopia: Musicians in the Time of Stalin.
+42. David Eltis, Rethinking the Atlantic Slave Trades.
+43. Philip Freeman, In the Brewing Luminous: The Life and Music of Cecil Taylor.
+44. Daniel Dain, A History of Boston. Short review here.
+45. Ezra Klein and Derek Thompson, Abundance.
+46. Ian Leslie, John & Paul: A Love Story in Songs.
+47. Benjamin E. Park, American Zion: A New History of Mormonism
+48. Roger Chickering, The German Empire, 1871-1918.
+49. Donald S. Lopez Jr., Buddhism: A Journey Through History.
+50. Dan Wang, Breakneck: China’s Quest to Engineer the Future.
+51. Keach Hagey, The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future.
+52. Joseph Torigian, The Party’s Interests Come First: The Life of Xi Zhongxun, Father of Xi Jinping.
+53. Rupert Gavin, Amorous or Loving?: The Highly Peculiar Tale of English and the English.
+54. Sam Tanenhaus, Buckley: The Life and Revolution that Changed America.
+55. Erik Penman, Eric Satie Three Piece Suite.
+56. Dwarkesh Patel, and others, The Scaling Era: An Oral History of AI, 2019-2025.
+57. Jeff McMahan, editor, Derek Parfit: His Life and Thought.
+58. Paul McCartney, Wings: The Story of a Band on the Run.
+59. William Easterly, Violent Saviors: The West’s Conquest of the Rest.
+60. Nicholas Walton, Orange Sky, Rising Water: The Remarkable Past and Uncertain Future of the Netherlands.
+61. Ken Belson, Every Day is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural & Economic Juggernaut.
+62. Tom MacTague, Between the Waves: The Hidden History of a Very British Revolution 1945-2016.
+63. 
 
