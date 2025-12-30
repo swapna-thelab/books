@@ -61,5 +61,11 @@
 60. Nicholas Walton, Orange Sky, Rising Water: The Remarkable Past and Uncertain Future of the Netherlands.
 61. Ken Belson, Every Day is Sunday: How Jerry Jones, Robert Kraft, and Roger Goodell Turned the NFL into a Cultural & Economic Juggernaut.
 62. Tom MacTague, Between the Waves: The Hidden History of a Very British Revolution 1945-2016.
-63. 
+63. Suat Dervis, The Prisoner of Ankara.
+64. Emmanuel Carrere, V13: Chronicle of a Trial.
+65. Alain Mabanckou, Dealing with the Dead
+66. Kiran Desai, The Loneliness of Sonia and Sunny.
+67. Eça de Queiros, Adam and Eve in Paradise.
+68. The Poems of Seamus Heaney.
+69. 
 
